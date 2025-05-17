@@ -53,6 +53,6 @@ The project aims to bridge this **communication gap** by providing **fast, real-
 ![image alt](https://github.com/AntonDirani/Course-Finder-Platform/blob/main/Screenshots1.jpg?raw=true)
 ![image alt](https://github.com/AntonDirani/Course-Finder-Platform/blob/main/Screenshots2.jpg?raw=true)
 
-https://github.com/user-attachments/assets/7c70f8f0-e127-485f-9694-857fc0d8aad2
+https://drive.google.com/file/d/1CGv_tN3bJu5_klCRCQkO12MpCMt_3re0/view?usp=sharing
 
 
